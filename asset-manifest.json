@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ahmed-M-Manaa/calculator-website.git/static/css/main.8bd19dd1.css",
-    "main.js": "/Ahmed-M-Manaa/calculator-website.git/static/js/main.3dc7ba47.js",
-    "index.html": "/Ahmed-M-Manaa/calculator-website.git/index.html",
-    "main.8bd19dd1.css.map": "/Ahmed-M-Manaa/calculator-website.git/static/css/main.8bd19dd1.css.map",
-    "main.3dc7ba47.js.map": "/Ahmed-M-Manaa/calculator-website.git/static/js/main.3dc7ba47.js.map"
+    "main.css": "/calculator/static/css/main.8bd19dd1.css",
+    "main.js": "/calculator/static/js/main.b5ac6998.js",
+    "index.html": "/calculator/index.html",
+    "main.8bd19dd1.css.map": "/calculator/static/css/main.8bd19dd1.css.map",
+    "main.b5ac6998.js.map": "/calculator/static/js/main.b5ac6998.js.map"
   },
   "entrypoints": [
     "static/css/main.8bd19dd1.css",
-    "static/js/main.3dc7ba47.js"
+    "static/js/main.b5ac6998.js"
   ]
 }
