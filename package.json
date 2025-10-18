@@ -1,8 +1,7 @@
 {
-  "homepage": "https://Ahmed-M-Manaa/calculator.git",
+  "homepage": "https://Ahmed-M-Manaa.github.io/calculator/",
   "name": "mycalcapp",
   "version": "0.1.0",
-  "https": "//github.com/Ahmed-M-Manaa.github.io/calculator/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
